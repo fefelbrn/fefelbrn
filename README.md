@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Aesthetic Header Banner (Miyazaki x Paris) -->
-  <img src="./assets/banner.jpg" alt="Féliz Luberne - Paris" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.25);" />
+  <img src="./assets/banner-v2.jpg" alt="Féliz Luberne - Paris" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.25);" />
 
   <br><br>
 
@@ -146,11 +146,19 @@
     <td width="50%" align="center" valign="top">
       <h4>🤖 AI Agents & Large Language Models</h4>
       <p>
-        <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-        <img src="https://img.shields.io/badge/Google-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-        <img src="https://img.shields.io/badge/DeepSeek-AI-0066FF?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+        <a href="https://chatgpt.com/" target="_blank">
+          <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+        </a>
+        <a href="https://gemini.google.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Google-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+        </a>
+        <a href="https://www.deepseek.com/" target="_blank">
+          <img src="https://img.shields.io/badge/DeepSeek-AI-0066FF?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+        </a>
         <br>
-        <img src="https://img.shields.io/badge/Local%20Agents-Ollama%20%7C%20HuggingFace-black?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Local Agents" />
+        <a href="https://ollama.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Local%20Agents-Ollama%20%7C%20HuggingFace-black?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Local Agents" />
+        </a>
         <img src="https://img.shields.io/badge/Architecture-Autonomous%20Agents%20%26%20RAG-10b981?style=flat-square" alt="Autonomous Agents" />
       </p>
       <p><em>Autonomous agentic workflows, prompt engineering, multi-agent reasoning, and local offline LLM inference.</em></p>
@@ -159,12 +167,13 @@
       <h4>🐍 Programming & Query Languages</h4>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,r,c,rust,js,html,css,nodejs" height="40" alt="Languages" />
+          <img src="https://skillicons.dev/icons?i=python,r,c,rust,js,html,css,nodejs,postgres" height="40" alt="Languages and SQL" />
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20BigQuery-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Cypher-Neo4j%20Graph-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Cypher" />
+        <a href="https://neo4j.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Cypher-Neo4j%20Graph-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Cypher" />
+        </a>
       </p>
       <p><em>Python for AI/Data, C & Rust for systems, SQL & Cypher for relational and graph query engines, JS/HTML/CSS for interactive interfaces.</em></p>
     </td>
@@ -175,9 +184,15 @@
     <td width="50%" align="center" valign="top">
       <h4>⚡ Data Engineering, Pipelines & Scraping</h4>
       <p>
-        <img src="https://img.shields.io/badge/dbt-Transform-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-        <img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-        <img src="https://img.shields.io/badge/GCP-Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+        <a href="https://www.getdbt.com/" target="_blank">
+          <img src="https://img.shields.io/badge/dbt-Transform-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+        </a>
+        <a href="https://airflow.apache.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+        </a>
+        <a href="https://cloud.google.com/" target="_blank">
+          <img src="https://img.shields.io/badge/GCP-Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+        </a>
       </p>
       <p>
         <a href="https://skillicons.dev">
@@ -185,9 +200,11 @@
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Web%20Scraping-BeautifulSoup%20%7C%20Playwright-0284c7?style=flat-square&logo=python&logoColor=white" alt="Web Scraping" />
+        <a href="https://pypi.org/project/beautifulsoup4/" target="_blank">
+          <img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-3776ab?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup" />
+        </a>
       </p>
-      <p><em>End-to-end data transformation with dbt, scheduled DAG orchestration with Airflow, document storage with MongoDB, and resilient web scraping engines.</em></p>
+      <p><em>End-to-end data transformation with dbt, scheduled DAG orchestration with Airflow, document storage with MongoDB, and web scraping with BeautifulSoup.</em></p>
     </td>
     <td width="50%" align="center" valign="top">
       <h4>🚢 DevOps, Cloud & Infrastructure</h4>
@@ -196,12 +213,7 @@
           <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,apple,windows,raspberrypi" height="40" alt="Infrastructure and OS" />
         </a>
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-      </p>
-      <p><em>Containerization, Kubernetes clustering, Infrastructure as Code with Terraform, cross-platform environments (Linux, Unix, macOS, Windows), and edge compute on Raspberry Pi.</em></p>
+      <p><em>Containerization with Docker, Kubernetes clustering, Infrastructure as Code with Terraform, cross-platform environments (Linux, Unix, macOS, Windows), and edge compute on Raspberry Pi.</em></p>
     </td>
   </tr>
 
@@ -215,9 +227,15 @@
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Homebrew-Package%20Manager-FBB040?style=flat-square&logo=homebrew&logoColor=black" alt="Homebrew" />
-        <img src="https://img.shields.io/badge/Chocolatey-Windows-0C8FD5?style=flat-square&logo=chocolatey&logoColor=white" alt="Chocolatey" />
-        <img src="https://img.shields.io/badge/Anaconda-Conda%20Env-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" />
+        <a href="https://brew.sh/" target="_blank">
+          <img src="https://img.shields.io/badge/Homebrew-Package%20Manager-FBB040?style=flat-square&logo=homebrew&logoColor=black" alt="Homebrew" />
+        </a>
+        <a href="https://chocolatey.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Chocolatey-Windows-0C8FD5?style=flat-square&logo=chocolatey&logoColor=white" alt="Chocolatey" />
+        </a>
+        <a href="https://www.anaconda.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Anaconda-Conda%20Env-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" />
+        </a>
       </p>
       <p><em>Efficient workflows using VS Code, modal editing in Vim & Neovim, Git & GitHub version control, and reproducible environments via Homebrew, Chocolatey, and Conda.</em></p>
     </td>
@@ -228,11 +246,7 @@
           <img src="https://skillicons.dev/icons?i=figma,discord,twitter,instagram,linkedin" height="40" alt="Design and Platforms" />
         </a>
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Prototyping-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/Community-Discord%20%7C%20X%20%7C%20LinkedIn-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Community" />
-      </p>
-      <p><em>UI/UX interface prototyping in Figma, social automation & bot integrations across Discord, Twitter/X, Instagram, and LinkedIn.</em></p>
+      <p><em>UI/UX interface prototyping in Figma, and active presence across developer communities, Discord, Twitter/X, Instagram, and LinkedIn.</em></p>
     </td>
   </tr>
 </table>
