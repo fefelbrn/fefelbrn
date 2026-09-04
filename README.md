@@ -10,7 +10,7 @@
   <br><br>
 
   <!-- Contact, Portfolio & Website Badges -->
-  <a href="https://www.linkedin.com/in/f%C3%A9lix-luberne-685068228/" target="_blank">
+  <a href="https://www.linkedin.com/in/feliz-luberne/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-F%C3%A9liz%20Luberne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:feliz.luberne@gmail.com">
@@ -282,7 +282,7 @@
   <p style="max-width: 550px; color: #8b949e;">
     Open to internship and apprenticeship opportunities in Data Science, AI & Software Engineering, as well as ambitious side-project collaborations.
   </p>
-  <a href="https://www.linkedin.com/in/f%C3%A9lix-luberne-685068228/" target="_blank">
+  <a href="https://www.linkedin.com/in/feliz-luberne/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
