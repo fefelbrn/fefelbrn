@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/feliz-luberne/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-F%C3%A9liz%20Luberne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:feliz.luberne@gmail.com">
+  <a href="mailto:fefelbrn@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="#" target="_blank" rel="noopener noreferrer">
@@ -271,7 +271,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:feliz.luberne@gmail.com">
+  <a href="mailto:fefelbrn@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20a%20Message-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
